@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Gorgeous Cotton Table",
+    "price": "179.00",
+    "description": "Temporibus iure eos quod explicabo nobis.",
+    "product": "Chicken",
+    "color": "teal",
+    "createdAt": "2023-04-16T20:40:31.890Z",
+    "image": "http://placeimg.com/640/480"
+  },
+  {
+    "id": 2,
+    "name": "Handmade Concrete Hat",
+    "price": "117.00",
+    "description": "Quibusdam autem blanditiis deleniti sint dolores magnam qui omnis distinctio.",
+    "product": "Bike",
+    "color": "magenta",
+    "createdAt": "2023-03-15T02:12:55.085Z",
+    "image": "http://placeimg.com/640/480"
+  },
+  {
+    "id": 3,
+    "name": "Small Cotton Pants",
+    "price": "907.00",
+    "description": "Veritatis explicabo quam quia ut tempora id vero dolorum rerum.",
+    "product": "Soap",
+    "color": "orange",
+    "createdAt": "2023-01-28T22:01:43.206Z",
+    "image": "http://placeimg.com/640/480"
+  },
+  {
+    "id": 4,
+    "name": "Handcrafted Frozen Gloves",
+    "price": "991.00",
+    "description": "Quia in voluptatibus dolorem perferendis sit expedita.",
+    "product": "Gloves",
+    "color": "gold",
+    "createdAt": "2023-08-24T13:40:35.839Z",
+    "image": "http://placeimg.com/640/480"
+  },
+  {
+    "id": 5,
+    "name": "Tasty Wooden Sausages",
+    "price": "421.00",
+    "description": "Distinctio et sunt error.",
+    "product": "Computer",
+    "color": "mint green",
+    "createdAt": "2023-12-02T13:18:50.495Z",
+    "image": "http://placeimg.com/640/480"
+  },
+  {
+    "id": 6,
+    "name": "Licensed Cotton Pants",
+    "price": "349.00",
+    "description": "Reiciendis magni sequi voluptas neque ut vitae ex quis.",
+    "product": "Pants",
+    "color": "turquoise",
+    "createdAt": "2022-12-13T18:57:29.095Z",
+    "image": "http://placeimg.com/640/480"
+  },
+  {
+    "id": 7,
+    "name": "Fantastic Wooden Mouse",
+    "price": "819.00",
+    "description": "Error impedit aperiam eveniet sit qui.",
+    "product": "Chair",
+    "color": "orchid",
+    "createdAt": "2023-01-12T00:07:28.304Z",
+    "image": "http://placeimg.com/640/480"
+  },
+  {
+    "id": 8,
+    "name": "Generic Steel Shirt",
+    "price": "692.00",
+    "description": "Non nihil animi qui qui nobis.",
+    "product": "Bacon",
+    "color": "cyan",
+    "createdAt": "2023-08-28T04:37:30.069Z",
+    "image": "http://placeimg.com/640/480"
+  },
+  {
+    "id": 9,
+    "name": "Small Concrete Computer",
+    "price": "157.00",
+    "description": "Qui soluta magnam dignissimos sunt aut velit in.",
+    "product": "Tuna",
+    "color": "orchid",
+    "createdAt": "2023-04-15T18:21:05.412Z",
+    "image": "http://placeimg.com/640/480"
+  },
+  {
+    "id": 10,
+    "name": "Handcrafted Fresh Sausages",
+    "price": "425.00",
+    "description": "Quo molestias molestias ut ipsum.",
+    "product": "Soap",
+    "color": "sky blue",
+    "createdAt": "2023-04-16T00:37:31.902Z",
+    "image": "http://placeimg.com/640/480"
+  }
+]
